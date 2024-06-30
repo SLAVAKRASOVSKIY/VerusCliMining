@@ -1,22 +1,22 @@
 {
 	"pools":[
 	{
-		"name": "ASUS",
+		"name": "SLASUS",
         	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
-		"name": "ASUS",
+		"name": "SLASUS",
         	"url": "stratum+tcp://eu.luckpool.net:3960",
 		"timeout": 150
 	},
 	{
-		"name": "ASUS",
+		"name": "SLASUS",
         	"url": "stratum+tcp://eu.luckpool.net:3957",
 		"timeout": 150
 	}
 	],
-	"user": "RALYPifUXhzXEeDknN9Sftg4DXdCAFhPs2.ASUS-30",
+	"user": "RALYPifUXhzXEeDknN9Sftg4DXdCAFhPs2.SLASUS-30",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 7,
