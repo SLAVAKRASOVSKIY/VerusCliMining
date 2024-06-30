@@ -11,8 +11,8 @@
 		"timeout": 150
 	},
 	{
-		"name": "Vipor",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+		"name": "ASUS",
+        	"url": "stratum+tcp://eu.luckpool.net:3957",
 		"timeout": 150
 	}
 	],
